@@ -1,0 +1,11 @@
+1,Efimov1,Algerd1,Michaylovich1,Streat1,21,11,1
+2,Efimov1,Algerd2,Michaylovich2,Streat2,22,12,2
+5,Efimov1,Algerd3,Michaylovich3,Streat3,23,13,3
+5,Efimov2,Algerd4,Michaylovich4,Streat1,21,11,1
+7,Efimov1,Algerd5,Michaylovich5,Streat2,22,12,2
+5,Efimov1,Algerd6,Michaylovich6,Streat3,23,13,3
+10,Efimov3,Algerd7,Michaylovich7,Streat3,23,13,3
+11,Efimov1,Algerd8,Michaylovich4,Streat3,23,13,3
+12,Efimov1,Algerd9,Michaylovich8,Streat3,23,13,3
+13,Efimov1,Algerd1,Michaylovich2,Streat3,23,13,3
+14,Efimov1,Algerd2,Michaylovich3,Streat3,23,13,3

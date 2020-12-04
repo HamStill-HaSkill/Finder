@@ -1,0 +1,10 @@
+﻿  FinderLib.cpp
+C:\Users\Xiaomi\source\repos\Finder\FinderLib\FinderLib.h(33,68): warning C4190: для "Find" задана С-связывание, но возвращаемый тип UDT "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" несовместим с языком Си
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Users\Xiaomi\source\repos\Finder\FinderLib\FinderLib.cpp(326,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\Finder\FinderLib\FinderLib.cpp(333,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\Finder\FinderLib\FinderLib.cpp(341,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\Finder\FinderLib\FinderLib.cpp(349,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\Finder\FinderLib\FinderLib.cpp(380,23): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\Xiaomi\source\repos\Finder\Debug\FinderLib.lib и объект C:\Users\Xiaomi\source\repos\Finder\Debug\FinderLib.exp
+  FinderLib.vcxproj -> C:\Users\Xiaomi\source\repos\Finder\Debug\FinderLib.dll
