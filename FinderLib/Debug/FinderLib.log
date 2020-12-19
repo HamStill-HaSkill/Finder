@@ -1,0 +1,15 @@
+﻿  FinderLib.cpp
+C:\Users\Xiaomi\source\repos\Finder\FinderLib\FinderLib.h(32,87): warning C4190: для "Next" задана С-связывание, но возвращаемый тип UDT "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" несовместим с языком Си
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Users\Xiaomi\source\repos\Finder\FinderLib\FinderLib.h(33,87): warning C4190: для "Prev" задана С-связывание, но возвращаемый тип UDT "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" несовместим с языком Си
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Users\Xiaomi\source\repos\Finder\FinderLib\FinderLib.h(34,77): warning C4190: для "ReadFileMem" задана С-связывание, но возвращаемый тип UDT "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" несовместим с языком Си
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Users\Xiaomi\source\repos\Finder\FinderLib\FinderLib.h(36,68): warning C4190: для "Find" задана С-связывание, но возвращаемый тип UDT "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" несовместим с языком Си
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+C:\Users\Xiaomi\source\repos\Finder\FinderLib\FinderLib.cpp(357,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\Finder\FinderLib\FinderLib.cpp(364,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\Finder\FinderLib\FinderLib.cpp(372,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\Finder\FinderLib\FinderLib.cpp(380,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\Finder\FinderLib\FinderLib.cpp(480,23): warning C4018: <: несоответствие типов со знаком и без знака
+  FinderLib.vcxproj -> C:\Users\Xiaomi\source\repos\Finder\Debug\FinderLib.dll

@@ -1,0 +1,50 @@
+﻿  FinderGUI.cpp
+C:\Users\Xiaomi\source\repos\Finder\FinderGUI45\FinderGUI.cpp(230,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\Finder\FinderGUI45\FinderGUI.cpp(234,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\Finder\FinderGUI45\FinderGUI.cpp(294,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\Finder\FinderGUI45\FinderGUI.cpp(298,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\Finder\FinderGUI45\FinderGUI.cpp(319,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\Finder\FinderGUI45\FinderGUI.cpp(323,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\Finder\FinderGUI45\FinderGUI.cpp(344,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\Finder\FinderGUI45\FinderGUI.cpp(348,39): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Xiaomi\source\repos\Finder\FinderGUI45\FinderGUI.cpp(81,9): warning C4101: hdc: неиспользованная локальная переменная
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstring(2390,23): warning C4244: аргумент: преобразование "wchar_t" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstring(2401): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)"
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstring(2401): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)"
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstring(2381): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)"
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstring(2381): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)"
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Users\Xiaomi\source\repos\Finder\FinderGUI45\FinderGUI.cpp(198): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)"
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Users\Xiaomi\source\repos\Finder\FinderGUI45\FinderGUI.cpp(198): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)"
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  FinderGUI45.vcxproj -> C:\Users\Xiaomi\source\repos\Finder\Debug\FinderGUI45.exe
